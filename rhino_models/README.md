@@ -1,3 +1,3 @@
 # tissue-origami
 
-See README.txt to generate a curvature-mapped surface from a z stack of binary images in MATLAB.
+singletissue_model.gh is a generic reconstituted tissue model that can be opened and manipulated in real time via the Rhinoceros Grasshopper (Robert McNeel & Associates) algorithmic modeling environment, license required.

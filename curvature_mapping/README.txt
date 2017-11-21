@@ -1,4 +1,4 @@
-Run "Hughes_StackToCurvatureSurface.m"
+Run "Hughes_StackToCurvatureSurface.m”, takes as input a set of example images for a miura object, 100.tif-130.tif
 	--You will have to read through and change various parameters relating to 
 	your particular image stack.
 	--Depends on compiled versions of smoothpatch_curvature_double.c, 
